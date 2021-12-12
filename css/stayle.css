@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background: #926FF6;
+    min-height: 60vh;
+}
+.container{
+    width: 1110px;
+    margin: 0 auto;
+
+}
+.header__container{
+    display: flex;
+    justify-content: space-between;
+}
+.header__nav{
+    list-style: none;
+    display: flex;
+    margin-top: 50px;
+}
+.header__block{
+    text-decoration: none;
+    color: #FFF;
+    padding:  18.05px;
+    font-size: 18.0451px;
+}
+
+.nav__header{
+   list-style: none; 
+   display: flex;
+   justify-content: space-between;
+   margin-top: 50px;
+}
+.nav__block{
+    text-decoration: none;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 11.69px;
+}
+.header__div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 133px;
+
+}
+.nav__section{
+    color: #FFE074;
+    font-size: 12.27px;
+}
+.nav__section1{
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.nav__section2{
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.nav__section3{
+    color: #FFF;
+    margin-top: 30px;
+}
+.header__div__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 133px;
+}
+.main__top{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 164px;
+  
+}
+.main__google{
+    width: 465px;
+    text-decoration: none;
+    list-style: none;
+}
+.main__hash{
+   text-decoration: none;
+   list-style: none;
+}
+.main__foother{
+    color: #FFAE00;
+    text-decoration: none;
+}
+.main__section{
+    font-size: 24px;
+    margin-top: 15px;
+}
+.main__telegram{
+   font-size: 16px;
+   margin-top: 31px;
+}
+.main__whatsapp{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+    margin-top: 52px;
+}
+.main__bootstrop{
+    color: #F3849F;
+    text-decoration: none;
+}
+.main__flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 164px;
+  
+}
+.section__param{
+    font-size: 12px;
+    color: #4F4F4F;
+    line-height: 14,46px;
+    margin-top: 10 13px;
+}
+.section__title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 220px;
+
+}
+.main__content{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 164px;
+}
+
+.main__param{
+    color: #FFAE00;
+    font-size:  12.27px;
+    text-decoration: none;
+}
+.main__param1{
+    color: #4F4F4F;
+    font-size: 24px;
+    margin-top: 15px;
+    list-style: none;
+}
+.main__param2{
+    color:  #828282;
+    text-decoration: none;
+    justify-content: space-between;
+}
+.main__param3{
+   display: flex;
+   text-decoration: none;
+   list-style: none;
+   margin-top: 22px;
+   margin-bottom: 44px;
+   justify-content: space-between;
+  
+   
+}
+.bottom__title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 114px
+}
+.bottom__ul{
+    list-style: none;
+}
+.bottom__future{
+     list-style: none;
+}
+.bottom__foother{
+    font-size: 12.2707px;
+    text-decoration: none;
+    color: #FFAE00;
+}
+.bottom__nav{
+    font-size: 24px;
+    color: #4F4F4F;
+    margin-top: 15px;
+}
+.bottom__miyagi{
+    display: flex;
+    margin-top: 58px;
+    justify-content: space-between;
+}
+.bottom__konfuz{
+    font-size: 10px;
+    color: #F3849F;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 15px;
+}
+.bottom__jamik{
+   width: 290px;
+   margin-top: 22px;
+}
+.foother__futrue{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 51px;
+}
+.foother__futrue{
+    background:  #333333;
+    margin-top: 167px;
+    min-height: 154px;
+}
+.java{
+    text-decoration: none;
+    list-style: none;
+    color:  #F7EEFF;
+    font-size:  19px;
+
+}
+.java__share{
+    color:  #DADADA;
+    padding: 30px;
+    
+}
+.java__scrip{
+    list-style: none;
+    text-decoration: none;
+}
